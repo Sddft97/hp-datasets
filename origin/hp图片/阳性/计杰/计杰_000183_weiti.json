@@ -17,6 +17,38 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "7",
+      "points": [
+        [
+          664.7373737373738,
+          25.292929292929294
+        ],
+        [
+          1011.2020202020203,
+          336.4040404040404
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "7",
+      "points": [
+        [
+          591.0,
+          420.24242424242425
+        ],
+        [
+          1071.8080808080808,
+          868.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "计杰_000183_weiti.jpg",

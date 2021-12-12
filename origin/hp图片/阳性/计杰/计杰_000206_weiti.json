@@ -17,6 +17,22 @@
       "group_id": null,
       "shape_type": "rectangle",
       "flags": {}
+    },
+    {
+      "label": "7",
+      "points": [
+        [
+          603.1212121212121,
+          363.67676767676767
+        ],
+        [
+          973.8282828282829,
+          594.989898989899
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "计杰_000206_weiti.jpg",
